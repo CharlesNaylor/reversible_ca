@@ -4,7 +4,7 @@ In _A New Kind of Science_, Stephen Wolfram demonstrates reversible one-dimensio
 
 I have a weirdly narrow hallway in my house that needs a custom-sized rug to prevent my toddlers getting splinters. You can use this code to create a long, narrow pattern that looks a bit like a Persian rug in the center, and chaos at either end. This is how my two-year-old learned the words 'order' and 'chaos'.
 
-To make things more interesting, the basic binary pattern can be translated into XML nodes and edges and fed into (Knotter)[https://sourceforge.net/projects/knotter/], provided you're willing to take the risk of downloading something from SourceForge.
+To make things more interesting, the basic binary pattern can be translated into XML nodes and edges and fed into [Knotter](https://sourceforge.net/projects/knotter/), provided you're willing to take the risk of downloading something from SourceForge.
 
 I can't provide my images as the file sizes are too large. However, in this repo:
 
